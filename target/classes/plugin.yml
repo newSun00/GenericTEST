@@ -1,0 +1,9 @@
+name: RunCommand
+version: '1.0-SNAPSHOT'
+main: org.nano.runCommand.RunCommand
+api-version: '1.20'
+softdepend:
+  - Citizens
+commands:
+  명령어설정관리:
+    aliases: []
